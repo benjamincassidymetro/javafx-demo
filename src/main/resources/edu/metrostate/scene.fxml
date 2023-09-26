@@ -20,7 +20,7 @@
                 <Label fx:id="label" text="Application Content"/>
                 <Label fx:id="value"/>
                 <Button fx:id="centerButton" text="Click me!" />
-                <Button fx:id="centerButton2" text="Click me, too!" />
+                <Button fx:id="centerButton2" text="Increment value" />
             </VBox>
         </AnchorPane>
     </center>
